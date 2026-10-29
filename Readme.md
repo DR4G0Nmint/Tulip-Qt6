@@ -1,1 +1,0 @@
-QT6 based KDE Theme made for ThinkPad T470
