@@ -1,0 +1,18 @@
+
+{
+    "KPlugin": {
+        "Id": "dragon.tulip.topbar",
+        "Name": "Pastel Tulip Top Bar",
+        "Description": "A pastel glass desktop panel for KDE Plasma",
+        "Authors": [
+            {
+                "Name": "DR4G0N"
+            }
+        ],
+        "Version": "1.0",
+        "License": "GPL-3.0-or-later",
+        "Category": "Utilities"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
